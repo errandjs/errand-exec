@@ -1,0 +1,23 @@
+{
+  "name": "errand-exec",
+  "version": "0.1.1",
+  "description": "errand component for running files in shell",
+  "main": "lib/errand-exec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errandjs/errand-exec.git"
+  },
+  "author": "mattcam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/errandjs/errand-exec/issues"
+  },
+  "homepage": "https://github.com/errandjs/errand-exec#readme",
+  "dependencies": {
+    "errand": "^0.1.1",
+    "node-cmd": "^3.0.0"
+  }
+}
