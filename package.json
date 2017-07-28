@@ -1,6 +1,6 @@
 {
   "name": "errand-exec",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "errand component for running files in shell",
   "main": "lib/errand-exec.js",
   "scripts": {
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/errandjs/errand-exec#readme",
   "dependencies": {
-    "errand": "^0.1.1",
-    "node-cmd": "^3.0.0"
+    "errand": "^0.1.1"
   }
 }
